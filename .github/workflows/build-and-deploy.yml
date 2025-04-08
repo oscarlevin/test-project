@@ -47,7 +47,7 @@ jobs:
         run: pretext deploy --no-push
 
       - name: push gh-pages branch
-        run: git push origin gh-pages
+        run: git push origin gh-pages --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
