@@ -1,6 +1,6 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-# This file was automatically generated with PreTeXt 2.16.0.
+# This file was automatically generated with PreTeXt 2.17.0.
 # If you modify this file, PreTeXt will no longer automatically update it.
 
 # Conda should already be installed in the codespace.  We need to add the conda-forge channel
